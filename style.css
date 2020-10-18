@@ -1,4 +1,8 @@
-*{
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+{
   margin:0 ;
   padding: 0;
   font-family: Century Gothic;
@@ -27,3 +31,6 @@ header{
   background color: #008080;
   color: #000
   } 
+</style>
+</head>
+</html>
