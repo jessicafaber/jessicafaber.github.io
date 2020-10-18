@@ -1,53 +1,29 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-table, td, th {
-  border: 1px solid black;
+*{
+  margin:0 ;
+  padding: 0;
+  font-family: Century Gothic;
 }
-
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td {
-  height: 50px;
-  vertical-align: bottom;
-}
-</style>
-</head>
-<body>
-
-<h2>The vertical-align Property</h2>
-<p>This property sets the vertical alignment (like top, bottom, or middle) of the content in th or td.</p>
-<table>
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Savings</th>
-  </tr>
-  <tr>
-    <td>Peter</td>
-    <td>Griffin</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>Lois</td>
-    <td>Griffin</td>
-    <td>$150</td>
-  </tr>
-  <tr>
-    <td>Joe</td>
-    <td>Swanson</td>
-    <td>$300</td>
-  </tr>
-  <tr>
-    <td>Cleveland</td>
-    <td>Brown</td>
-    <td>$250</td>
-  </tr>
-</table>
-
-</body>
-</html>
+header{
+  backgrounf: url(../Fleimg-College-700x2800).jpg;
+  height: 100vh;
+  background-size: cover;
+  background position: center;
+  
+  ul{
+    float:right;
+   list-style-tyoe:none;
+   margin-top:25pt;
+  }
+  ul li{
+    display:inline-block;
+  }
+  ul li a {
+    text-decoration: none;
+    color: #0000ff;
+    padding: 5px 20px;
+    border:1px solid #0000ff; 
+  }
+  ul li a: hover{
+  background color: #008080;
+  color: #000
+  } 
