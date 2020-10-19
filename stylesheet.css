@@ -33,6 +33,7 @@ li.a {
     color:#003d66;
     outline-style: outset;
     background-color:#ADD8E6;
+    margin-top: 80px;
   }
   p{ 
     text-align:left;
@@ -58,6 +59,7 @@ li.a {
     font-size: 30px;
     outline-style: outset;
     background-color:#ADD8E6;
+    margin-top: 80px;
   }
   table, td, th {
     border: 1px;
@@ -91,6 +93,7 @@ text-align: left;
 color:#003d66;
 outline-style: outset;
 background-color:#ADD8E6;
+margin-top: 80px;
 }
 
 ul.b{
