@@ -58,6 +58,7 @@ li.a {
   table, td, th {
     border: 1px;
     color: #ffffff;
+    font-size: 30px;
   }
   td{
     height: 50px;
