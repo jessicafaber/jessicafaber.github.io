@@ -1,4 +1,3 @@
-<style>
   body{
     background-color:#F0F8FF;
   }
@@ -94,13 +93,12 @@ li.a {
     padding: 8px;
     border: 1px solid;
     text-align:left;
-    color:#4682B4e;
+    color:#4682B4;
     border: 8px;
   }
   tr{
     background-color: #4682B4;
     border 8px;
-    font-size:25px;
     
     }
 
@@ -152,6 +150,5 @@ p{
     font-weight: bold;
 }
 </style>
-
 
 
