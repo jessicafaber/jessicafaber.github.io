@@ -1,20 +1,15 @@
-
 <style>
   body{
     background-color:#c6d8ec
   }
-</style>
 
-<style>
   h1{
     text-align: center;
     font-size: 50px;
     margin-top: 50px;
     color:#000000;
   }
-</style>
 
-<style>
 ul.a {
   list-style-type:none;
   margin: 1px;
@@ -31,10 +26,7 @@ li a {
   text-decoration: none;
   font-size: 20px;
 }
-</style>
 
-
-<style>
   h2{
     text-align:left;
     font-size: 30px;
@@ -57,10 +49,8 @@ li a {
   display: inline-block;
   font-size: 15px;
 }
-</style> 
 
 
-<style>
   h3{
     color:#003d66;
     font-size: 30px;
@@ -85,10 +75,7 @@ li a {
   tr{
     background-color: #ffffff;
     }
-  </style>
 
-
-<style>
 h4{
 font-size: 30px;
 padding:2px;
