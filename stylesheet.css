@@ -109,7 +109,24 @@ li.b {
   text-align: left;
   padding: 5px 10px;
   font-size: 20px;
+  
   }
+h5{font-size:20px;
+text-align:center;
+  margin-top: 50px;
+}
+h6{font-size:20px;
+text-align:center;
+ margin-top: 50px;
+}
+h7{font-size:20px;
+text-align:center;
+  margin-top: 50px;
+}
+h8{font-size:20px;
+text-align:center;
+  margin-top: 50px;
+}
 </style>
 
 
