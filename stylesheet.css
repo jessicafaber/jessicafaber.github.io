@@ -1,6 +1,6 @@
 <style>
   body{
-    background-color:#c6d8ec;
+    background-color:#ADD8E6;
   }
 
   h1{
@@ -69,11 +69,14 @@ li.a {
   }
   th{
     padding: 8px;
-    border: 1px solid #ddd;
+    border: 1px solid;
     text-align:left;
+    color:#4682B4e;
+    border: 8px;
   }
   tr{
-    background-color: #ffffff;
+    background-color: #4682B4;
+    border 8px;
     }
 
 h4{
