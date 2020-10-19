@@ -39,6 +39,8 @@ li.a {
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
+    outline-width:5px;
+    outline-color:#003d66;
   }
   p{ 
     text-align:left;
@@ -66,6 +68,8 @@ li.a {
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
+    outline-width:5px;
+    outline-color:#003d66;
   }
   table, td, th {
     border: 1px;
@@ -100,6 +104,8 @@ color:#003d66;
 outline-style: outset;
 background-color:#ADD8E6;
 margin-top: 80px;
+  outline-width:5px;
+    outline-color:#003d66;
 }
 
 ul.b{
@@ -121,6 +127,8 @@ h5
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
+  outline-width:5px;
+    outline-color:#003d66;
 }
 </style>
 
