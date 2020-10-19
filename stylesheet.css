@@ -82,7 +82,7 @@ li.a {
   }
   table{
     border: 10px;
-    width: 70%;
+    width: 50%;
   }
   th{
     padding: 8px;
@@ -94,6 +94,8 @@ li.a {
   tr{
     background-color: #4682B4;
     border 8px;
+    font-size:25px;
+    
     }
 
 h4{
@@ -139,6 +141,7 @@ p{
     font-size: 20px;
     padding:1px;
     color: #0000CD;
+    font-weight: bold;
 }
 </style>
 
