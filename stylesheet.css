@@ -110,14 +110,18 @@ margin-top: 80px;
 
 ul.b{
 list-style-type:circle;
+  color: #000000;
+  text-align: left;
+  padding: 5px 10px;
+  font-size: 30px;
 }
 
 li.b {
   
-  color: #4682B4;
+  color: #000000;
   text-align: left;
   padding: 5px 10px;
-  font-size: 25px;
+  font-size: 30px;
   
   }
 h5
