@@ -10,6 +10,9 @@
     color:#000000;
     background-color:#87CEEB;
     padding: 40px;
+    outline-style: outset;
+    outline-width:10px;
+    outline-color:#003d66;
   }
 
 ul.a {
@@ -112,11 +115,13 @@ li.b {
   
   }
 h5
-{font-size:20px;
-text-align:left;
-  background-color:#ADD8E6;
+{text-align:left;
+    font-size: 30px;
+    color:#003d66;
+    outline-style: outset;
+    background-color:#ADD8E6;
     margin-top: 80px;
-
+}
 </style>
 
 
