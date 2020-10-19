@@ -30,7 +30,9 @@ li.a {
   h2{
     text-align:left;
     font-size: 30px;
-    color:#003d66
+    color:#003d66;
+    outline-style: outset;
+    background-color:#ffffff;
   }
   p{ 
     text-align:left;
@@ -85,6 +87,8 @@ font-size: 30px;
 padding:2px;
 text-align: left;
 color:#003d66;
+outline-style: outset;
+background-color:#ffffff;
 }
 
 ul.b{
