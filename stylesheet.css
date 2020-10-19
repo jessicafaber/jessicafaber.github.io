@@ -39,7 +39,7 @@ li.a {
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
-    outline-width:5px;
+    outline-width:1px;
     outline-color:#003d66;
   }
   p{ 
@@ -68,7 +68,7 @@ li.a {
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
-    outline-width:5px;
+    outline-width:1px;
     outline-color:#003d66;
   }
   table, td, th {
@@ -104,7 +104,7 @@ color:#003d66;
 outline-style: outset;
 background-color:#ADD8E6;
 margin-top: 80px;
-  outline-width:5px;
+  outline-width:1px;
     outline-color:#003d66;
 }
 
@@ -117,7 +117,7 @@ li.b {
   color: #4682B4;
   text-align: left;
   padding: 5px 10px;
-  font-size: 20px;
+  font-size: 25px;
   
   }
 h5
@@ -127,7 +127,7 @@ h5
     outline-style: outset;
     background-color:#ADD8E6;
     margin-top: 80px;
-  outline-width:5px;
+  outline-width:1px;
     outline-color:#003d66;
 }
 </style>
