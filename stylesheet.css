@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<style>
+  body{
+    background-color:#c6d8ec
+  }
+</style>
+
+<style>
+  h1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 50px;
+    color:#000000;
+  }
+</style>
+
+<style>
+ul.a {
+  list-style-type:none;
+  margin: 1px;
+  padding:1px;
+  overflow:hidden;
+  background-color: #004d80;
+  }
+
+li a {
+  display: block;
+  color: #ffffff;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 20px;
+}
+</style>
+
+
+<style>
+  h2{
+    text-align:left;
+    font-size: 30px;
+    color:#003d66
+  }
+  p{ 
+    text-align:left;
+    font-size: 20px;
+    padding:0px;
+    color: #000000;
+  }
+  
+  
+  a{
+  background-color: #004d80;
+  color: #ffffff;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+}
+</style> 
+
+
+<style>
+  h3{
+    color:#003d66;
+    font-size: 30px;
+  }
+  table, td, th {
+    border: 1px;
+    color: #417dbe;
+  }
+  td{
+    height: 50px;
+    font-size:20px;
+  }
+  table{
+    border: 8px;
+    width: 50%;
+  }
+  th{
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align:left;
+  }
+  tr{
+    background-color: #ffffff;
+    }
+  </style>
+
+
+<style>
+h4{
+font-size: 30px;
+padding:2px;
+text-align: left;
+color:#003d66;
+}
+
+ul.b{
+list-style-type:circle;
+}
+
+li {
+  
+  color: #000000;
+  text-align: left;
+  padding: 5px 10px;
+  font-size: 20px;
+  }
+</style>
+
+
+</body>
+</head>
+</html>
