@@ -15,12 +15,14 @@
     outline-color:#003d66;
   }
 
+/*Inpiration from: https://www.w3schools.com/css/css_navbar.asp */
 ul.a {
   list-style-type:none;
   margin: 0px;
   padding:0px;
   overflow:hidden;
   background-color: #004d80;
+  font-size: 15px;
   }
 
 li.a {
@@ -31,6 +33,7 @@ li.a {
   text-decoration: none;
   font-size: 20px;
 }
+
 
   h2{
     text-align:left;
@@ -49,7 +52,8 @@ li.a {
     color: #000000;
   }
   
-  
+  /* Inpiration from: https://www.w3schools.com/css/css_link.asp*/
+ /* Inpiration from: https://www.w3schools.com/css/css3_borders.asp */
   a{
   background-color: #004d80;
   color: #ffffff;
@@ -71,6 +75,8 @@ li.a {
     outline-width:3px;
     outline-color:#003d66;
   }
+
+/* Inpiration from: https://www.w3schools.com/css/css_table.asp*/
   table, td, th {
     border: 1px;
     color: #ffffff;
@@ -110,6 +116,7 @@ margin-top: 80px;
     outline-color:#003d66;
 }
 
+/*Inpiration from: https://www.w3schools.com/css/css_list.asp*/
 ul.b{
 list-style-type:circle;
   color: #000000;
@@ -136,6 +143,7 @@ h5
   outline-width:3px;
     outline-color:#003d66;
 }
+
 p{
   text-align:left;
     font-size: 20px;
