@@ -32,7 +32,7 @@ li.a {
     font-size: 30px;
     color:#003d66;
     outline-style: outset;
-    background-color:#ffffff;
+    background-color:#ADD8E6;
   }
   p{ 
     text-align:left;
@@ -56,6 +56,8 @@ li.a {
   h3{
     color:#003d66;
     font-size: 30px;
+    outline-style: outset;
+    background-color:#ADD8E6;
   }
   table, td, th {
     border: 1px;
@@ -88,7 +90,7 @@ padding:2px;
 text-align: left;
 color:#003d66;
 outline-style: outset;
-background-color:#ffffff;
+background-color:#ADD8E6;
 }
 
 ul.b{
