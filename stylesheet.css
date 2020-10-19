@@ -58,7 +58,7 @@ li.a {
   table, td, th {
     border: 1px;
     color: #ffffff;
-    font-size: 30px;
+    font-size: 20px;
   }
   td{
     height: 50px;
@@ -93,7 +93,7 @@ list-style-type:circle;
 
 li.b {
   
-  color: #000000;
+  color: #4682B4;
   text-align: left;
   padding: 5px 10px;
   font-size: 20px;
